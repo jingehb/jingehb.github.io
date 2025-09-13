@@ -1,0 +1,5 @@
+/* 只作用于个人简介正文 */
+.profile-body {
+  white-space: pre-line;
+  line-height: 1.8;
+}
